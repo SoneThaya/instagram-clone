@@ -13,3 +13,9 @@
   border-bottom: 1px solid lightgray;
   background-color: white;
 }
+
+.app__signup {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+}
