@@ -7,7 +7,7 @@
   height: 100vh;
 }
 
-.app_headerImage {
+.app__header {
   object-fit: contain;
   padding: 20px;
   border-bottom: 1px solid lightgray;
